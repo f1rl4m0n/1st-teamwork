@@ -1,0 +1,10 @@
+let myName = "Igor";
+let myAge = 30 ;
+let myCity = 'Stettin';
+let myWork = 'Builder';
+console.log(`My name is : ${myName}`);
+console.log(`i am : ${myAge} years old`);
+console.log(`I live in city : ${myCity}`);
+console.log(`I work like : ${myWork}`);
+alert("Hello everyone");
+alert('let me introduce myself');
